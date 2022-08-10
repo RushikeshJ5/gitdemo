@@ -51,3 +51,4 @@ Keep Me Signed In Checkbox
 Forgot Password Link
 Sign up/Create an account Link
 CAPTCHA
+//Chages made
